@@ -15,18 +15,19 @@ Pre-Engineering (2021 – 2023)
 ---
 
 ## Skills
-- Python
+- Figma
+- Canva
 - SQL
 - Oracle SQL
+- Python
+- Streamlit
 - HTML/CSS
 - Java
 - C Language
 - Assembly Language (MASM)
 - GUI Development
-- Streamlit
-- Tkinter
-- Figma
-- Canva
+
+
 
 ---
 
