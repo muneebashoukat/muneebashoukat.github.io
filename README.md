@@ -83,5 +83,3 @@ Responsible, organized, and motivated Computer Science student seeking internshi
 
 ---
 
-## Live Portfolio
-(Add your GitHub Pages website link here after publishing)
