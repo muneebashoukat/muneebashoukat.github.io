@@ -84,5 +84,5 @@ Responsible, organized, and motivated Computer Science student seeking internshi
 ---
 | Project | Description | Link |
 |---------|-------------|------|
-| Figma Coffe Website UI | Interactive prototype of coffe website | [View Project](https://www.figma.com/design/2aQL5SiddlLaAPBnA6tb7z/Project?node-id=0-1&t=22IGJJ4Zu2vmlZsy-1) |
+| Figma Coffee Website UI | Interactive prototype of coffee website | [View Project](https://www.figma.com/design/2aQL5SiddlLaAPBnA6tb7z/Project?node-id=0-1&t=22IGJJ4Zu2vmlZsy-1) |
 
